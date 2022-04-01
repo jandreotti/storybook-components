@@ -1,0 +1,7 @@
+//! 3º  !!!!!!!!!!!!!!
+
+//! 3º  Creo las paginas que quiero exportar -> (en realidad creo una copia de ese template rompiendo la referencia que javascript tiene con los objetos)
+
+//! 4º  !!!!!!!!!!!!!!
+
+//! 4º  Le agrego los valores que quiero que se muestren en el storybook por DEFECTO
