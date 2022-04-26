@@ -48,3 +48,6 @@ export const MyLabel = ({
 		</span>
 	);
 };
+
+
+export default MyLabel; //Para aumentar la compatibilidad cuando se use mi paquete

@@ -40,3 +40,6 @@ export const Button = ({ primary = false, size = 'medium', backgroundColor, labe
 		</button>
 	);
 };
+
+
+export default Button;
