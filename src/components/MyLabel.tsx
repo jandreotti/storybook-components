@@ -1,7 +1,7 @@
 import React from 'react';
 import './mylabel.css';
 
-interface MyLabelProps {
+export interface MyLabelProps {
 	/**
 	 * El texto que va a figurar en el label
 	 */
